@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### 📖 Bio
 
-I'm a software developer from Italy. From Sardinia, based in Milan. Focuses on .NET Core, NodeJS, Go and K8S.
-I'm currently working at Vittoria Assicurazioni as Software Engineer.
+From Sardinia, based in Milan. Focuses on .NET Core, NodeJS, Go and K8S. I'm currently working at Vittoria Assicurazioni as Software Engineer.
 
 
 
