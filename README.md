@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📖 Bio
+
+I'm a software developer from Italy. From Sardinia, based in Milan. Focuses on .NET Core, NodeJS, Go and K8S.
+I'm currently working at Vittoria Assicurazioni as Software Engineer.
+
+
+
+### 📈 Github Stats
+
+<a href="https://github.com/riccardotzr/riccardotzr">
+  <img src="https://github-readme-stats.vercel.app/api?username=riccardotzr&theme=dark&show_icons=true" />
+</a>  
+
+<!-- Resources: -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
