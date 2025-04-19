@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 📖 Bio
 
-From Sardinia with love, based in Milan. Focuses on Kubernetes and Go. I'm currently working at Vittoria Assicurazioni as Cloud Architect.
+From Sardinia with love, based in Milan. Focused on Kubernetes and Go. I'm currently working at Vittoria Assicurazioni as Cloud Architect.
 
 
 
