@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 📖 Bio
 
-From Sardinia with love, based in Milan. Focuses on .NET Core, NodeJS, Go and K8S. I'm currently working at Vittoria Assicurazioni as Software Engineer.
+From Sardinia with love, based in Milan. Focuses on Kubernetes and Go. I'm currently working at Vittoria Assicurazioni as Cloud Architect.
 
 
 
